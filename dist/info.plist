@@ -69,9 +69,7 @@
 		</dict>
 	</array>
 	<key>readme</key>
-	<string>Keywords are one of Alfred's most commonly used and most useful ways of launching actions. Set a keyword and connect it to the action(s) you want to perform.
-
-Type your keyword into Alfred, followed by your input text if needed, and you'll be on your way to boosting your productivity!</string>
+	<string>Check out the README at https://github.com/alfonmga/alfred-utc-time.</string>
 	<key>uidata</key>
 	<dict>
 		<key>DB969215-8E4C-47B2-9564-F6102E3CCF4C</key>
@@ -82,8 +80,10 @@ Type your keyword into Alfred, followed by your input text if needed, and you'll
 			<integer>180</integer>
 		</dict>
 	</dict>
+	<key>variablesdontexport</key>
+	<array/>
 	<key>version</key>
-	<string>1.0</string>
+	<string>0.0.1</string>
 	<key>webaddress</key>
 	<string>https://github.com/alfonmga/alfred-utc-time</string>
 </dict>
