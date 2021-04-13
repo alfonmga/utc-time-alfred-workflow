@@ -1,6 +1,6 @@
 # Display UTC time Alfred 4 Workflow
 
-![GitHub release](https://img.shields.io/github/release/alfonmga/utc-time-alfred-workflow.svg)
+![GitHub release](https://img.shields.io/github/release/alfonmga/utc-time-alfred-workflow.svg?cache=0)
 
 ![demo](demo.png)
 
